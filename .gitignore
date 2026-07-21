@@ -1,1 +1,21 @@
 python-expert.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Claude Code local settings/tooling (kept local, like .env)
+.claude/
+CLAUDE.md
