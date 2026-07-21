@@ -16,5 +16,6 @@ env/
 .idea/
 .DS_Store
 
-# Claude Code local settings
-.claude/settings.local.json
+# Claude Code local settings/tooling (kept local, like .env)
+.claude/
+CLAUDE.md
